@@ -8,7 +8,7 @@ draw distance and model_id come along for the ride.
 Built for video previews, animated cinematics, and custom map development
 in Blender.
 
-![preview screenshot](docs/preview.png) <!-- replace with real screenshot -->
+![preview screenshot](docs/gif/Library.gif) <!-- replace with real screenshot -->
 
 ---
 
