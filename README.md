@@ -42,7 +42,7 @@ Each asset is a Blender **Collection** with:
 
 ## Installation
 
-1. Go to [Releases](../../releases/latest) and download all archive parts.
+1. Go to [Releases](../../releases/latest) and download archive.
 2. Extract everything to a single folder (e.g. `D:\Blender_Libraries\INU_GTA_SA\`).
    The folder must contain `blender_assets.cats.txt` and `textures/` at its root.
 3. Open Blender → **Edit → Preferences → File Paths → Asset Libraries → +**
